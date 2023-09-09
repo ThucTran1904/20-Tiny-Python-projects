@@ -25,7 +25,11 @@ def test():
     # sorted() method sorts the list alphabetically or 
     numbList = [4,3,1,-1,-5,10]
     print('Sort list: ',sorted(numbList) ) 
-    
+     
+    mylist = [1,2,3,4,5,6,7,8,9]
+    a = mylist[5::-2]
+    print(a)
+
 
 test()
     
