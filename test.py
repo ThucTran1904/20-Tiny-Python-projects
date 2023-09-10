@@ -30,7 +30,7 @@ def test():
     a = mylist[5::-2]
     print(a)
 
-# What TF is that 
+# What did u do with your life
 test()
     
 
